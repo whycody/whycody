@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Word's Life](https://github.com/whycody/Words_Life)
 
-- 🌱 I’m currently learning **MVVM and Coin**
+- 🌱 I’m currently learning **MVVM, Koin and Room**
 
 - 📫 How to reach me **oktawiank4usz@gmail.com**
 
