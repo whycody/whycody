@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Oktawian</h1>
 <h3 align="center">A passionate android developer from Poland</h3>
 
-- 🔭 I’m currently working on [Word's Life](https://github.com/whycody/Words_Life)
+- 🔭 I’m currently working on [Lyricated](https://github.com/whycody/Lyricated)
 
 - 🌱 I’m currently learning **MVVM, Koin and Room**
 
